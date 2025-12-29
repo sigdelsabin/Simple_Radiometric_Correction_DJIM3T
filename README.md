@@ -1,6 +1,7 @@
 # Simple_Radiometric_Correction_DJIM3T
 
 Requirements : DJI_Thermal_SDK latest version 
+https://www.dji.com/downloads/softwares/dji-thermal-sdk
 
 This is a simple demonstration of the use of dji_irp.exe inside the DJi_thermal_SDK for the conversion of the raw thermal images to .tif.
 
